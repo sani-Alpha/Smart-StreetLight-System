@@ -4,3 +4,7 @@ With the growing population, the need for power consumption has increased expone
 Street Light System that has been employed for over a decade now, is a victim of such revolution. The continuously glowing street lamps and the power being consumed has drastically increased and hence demands an efficient method to adapt the surge in consumption.
 # 1.2 Objective
 Smart street light system tries to find solution for the faster depletion of energy resources due to the inefficient usage and wastage of limited valuable resources. This project help to decrease the wastage of electricity by controlling the working of street light system that attributes to a good amount of electricity bills in our nation. This project does not include methods to incorporate usage of renewable resources like solar energy but instead tries to embrace an effective way to improve the conservation and consumption.
+
+
+# NOTE:-
+All the instructions, parts and requirements are encapsulated within the Project Report .pdf file
